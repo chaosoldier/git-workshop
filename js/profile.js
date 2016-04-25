@@ -1,6 +1,7 @@
 
 
 $(function () {
+
   var param   = location.href.split("?")[1];
   var user = param.split("=")[1];
   

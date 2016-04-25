@@ -1,0 +1,12 @@
+td{
+	height: 449px;
+	width: 423px;
+	border: 1px #000 solid;
+	text-align: center;
+}
+th{
+	border: 1px #000 solid;
+}
+td > p{
+	font-size: 40px;
+}
