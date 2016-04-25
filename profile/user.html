@@ -1,26 +1,48 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Konton</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<link rel="stylesheet" type="text/css" href="">
-	<link rel="stylesheet" type="text/css" href="">
+  <title>Konton TinBot織り成す世界</title>
+  <link rel="stylesheet" href="../css/normalize.css"> 
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/pro.css">
 </head>
 <body>
-	<header>
-		<h1>Konton | <span id="name"></span></h1>
-	</header>
+	<div class="header-wrapper">
+		<header>
+			<nav class="header-navi cf">
+			<ul>
+			  <li><a href="user.html?user=uehara">Soldier</a></li>
+			  <li><a href="user.html?user=norio">Tin Bot</a></li>
+			  <li><a href="user.html?user=shota">Ubuntu</a></li>
+			  <li><a href="user.html?user=azumi">Kikko Woman</a></li>
+			  <li><a href="user.html?user=zui">Gyaban</a></li>
+			</ul>
+			</nav>
+			<p class="header-logo">Team Konton</p>
+			<div class="header-button">BUTTON</div>
+		</header>
+	</div>
 	<section>
+
 		<h2>職種</h2>
 		<p id="job"></p>
-		<h2>趣味</h2>
-		<p id="shumi"></p>
-		<h2>特技</h2>
-		<p id="tokugi"></p>
-		<h2>好きな食べもの</h2>
-		<p id="food"></p>
+		<table>
+			<tr>
+				<th>favorite</th>
+				<th>Special skill</th>
+				<th>Food</th>
+			</tr>
+			<tr>
+				<td><p id="shumi"></p></td>
+				<td><p id="tokugi"></p></td>
+				<td><p id="food"></p></td>
+			</tr>
+		</table>
 	</section>
-	<footer></footer>
+	<footer>
+		<p class="copyright">&copy; TEAM Konton</p>
+	</footer>
 
 	<script   src="https://code.jquery.com/jquery-2.2.3.min.js"   integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo="   crossorigin="anonymous"></script>
 	<script src="../js/profile.js"></script>
