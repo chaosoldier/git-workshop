@@ -1,0 +1,4 @@
+name=小田翔太
+shumi=サッカー
+tokugi=おこのみやき作り
+food=りんご
