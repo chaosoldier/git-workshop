@@ -1,4 +1,5 @@
-name=
-shumi=
-tokugi=
-food=
+name=宇宙刑事ギャバン
+job=デザイナー
+shumi=イラスト
+tokugi=イラスト
+food=唐揚げ
