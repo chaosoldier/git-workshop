@@ -1,0 +1,69 @@
+/******* GENERAL *******/
+
+.cf:after {
+	content: '';
+	display: block;
+	clear: both;
+}
+
+body {
+  background: #e5e5e5;
+  font-family: Montserrat,"游ゴシック",YuGothic,"メイリオ", "Meiryo", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "Osaka", "ＭＳ Ｐゴシック", "MS P Gothic", Verdana, Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 1.6em;
+  color: #7e7e7e;
+  width: 1269px;
+}
+
+ul {
+	list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+/******* HEADER *******/
+
+header a{
+	font-size: 30px;
+	color: #fff;
+}
+
+.header-wrapper{
+	width: 100%;
+	height: 300px;
+	background-color: #000;
+}
+
+
+.header-navi li{
+	float:left;
+	margin-right: 10px;
+}
+
+.header-logo{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.header-button{
+	width: 200px;
+	height: 50px;
+	background-color: #fff
+}
+
+/******* MAIN *******/
+.main-title{
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.middle-box{
+	float: left;
+	width: 423px;
+	height: 449px;
+	background-color: #fff;
+	border: 1px solid #000;
+}
