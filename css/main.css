@@ -32,8 +32,13 @@ header a{
 
 .header-wrapper{
 	width: 100%;
-	height: 300px;
-	background-color: #000;
+	height: 600px;
+	background-image: url(../resource/work_02_01.gif);
+	background-repeat: no-repeat;
+}
+
+.header-navi ul{
+	margin: 0;
 }
 
 .header-navi li{
@@ -63,6 +68,41 @@ header a{
 	float: left;
 	width: 423px;
 	height: 449px;
-	background-color: #fff;
-	border: 1px solid #000;
+	background-color: #fff
+}
+
+.m1{
+	background-image: url(../resource/work_02_07.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.m2{
+	background-image: url(../resource/work_02_08.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.m3{
+	background-image: url(../resource/work_02_09.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.m4{
+	background-image: url(../resource/work_02_10.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.m5{
+	background-image: url(../resource/work_02_17.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.m6{
+	background-image: url(../resource/work_02_12.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
 }
