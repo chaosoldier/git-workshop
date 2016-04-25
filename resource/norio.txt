@@ -1,4 +1,5 @@
-name=
-shumi=
-tokugi=
-food=
+name=tinbot
+job=エンジニア
+shumi=バスケットボール
+tokugi=ヨーグルト作り
+food=ナス

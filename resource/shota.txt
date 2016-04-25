@@ -1,4 +1,5 @@
-name=小田翔太
+name=Ubuntu
+job=エンジニア
 shumi=サッカー
 tokugi=おこのみやき作り
 food=りんご

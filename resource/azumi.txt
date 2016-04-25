@@ -1,4 +1,5 @@
-name=
-shumi=
-tokugi=
-food=
+name=キッコーウーマン
+job=デザイナー
+shumi=テニス
+tokugi=早食い
+food=ケンタッキー

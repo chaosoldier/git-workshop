@@ -1,4 +1,5 @@
-name=
-shumi=
-tokugi=
-food=
+name=カオスソルジャー
+job=エンジニア
+shumi=フットサル
+tokugi=甘酒・ヨーグルト作り
+food=エビチリ
